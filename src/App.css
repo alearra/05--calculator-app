@@ -57,10 +57,11 @@
 .contenedor-calculadora {
   width: 400px;
   height: 600px;
-  padding: 14px;
-  background-color: yellow;
-  border-radius: 20px;
-  border: 5px solid white;
+  padding: 8px;
+  background-color: #0A1B4E;
+  border-radius: 5px;
+  border: 1px solid #0A1B4E;
+  filter: drop-shadow(2px 2px 2px #0A1B4E);
 }
 
 .fila {

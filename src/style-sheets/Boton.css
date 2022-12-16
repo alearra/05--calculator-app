@@ -8,11 +8,12 @@
   font-size: 38px;
   background-color: black;
   color: white;
-  border-radius: 25px;
-  border: 2px solid red;
+  border-radius: 5px;
+  border: 1px solid black;
   margin: 4px;
   cursor: pointer;
   user-select: none;
+  filter: drop-shadow(2px 2px 2px black);
 
  
 }
@@ -23,5 +24,6 @@
 } */
 
 .operador {
-  background-color: blue;
+  background-color: #692BB8;
+  filter: drop-shadow(5px 5px 5px black);
 }
